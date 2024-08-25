@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "files.associations": {
+        "P40.C": "cpp",
+        "stdbool.h": "c"
+    }
+}
